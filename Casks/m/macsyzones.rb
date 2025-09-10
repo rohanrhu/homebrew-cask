@@ -19,8 +19,8 @@ cask "macsyzones" do
   app "MacsyZones.app"
 
   zap trash: [
-    "~/Library/Application Support/MacsyZones",
-    "~/Library/Logs/MacsyZones",
-    "~/Library/Preferences/com.macsyzones.MacsyZones.plist",
+    "~/Library/Application Support/MeowingCat.MacsyZones",
+    "~/Library/Logs/MeowingCat.MacsyZones",
+    "~/Library/Preferences/MeowingCat.MacsyZones.plist",
   ]
 end
